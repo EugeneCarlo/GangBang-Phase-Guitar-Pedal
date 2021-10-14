@@ -15,7 +15,7 @@
 + Генератор низкой частоты (LFO)
 + Генератор огибающей (Envelope)
 
-![ControlPCBTop](Image/Main%20Board%20Top.png)
+![ControlPCBTop](PCB/Control%20Board.png)
 
 #### Немного про функционал:
 + Каждый каскад меняет фазу сигнала на 45 градусов (540 градусов максимум)

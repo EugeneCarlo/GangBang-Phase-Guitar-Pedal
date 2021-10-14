@@ -9,6 +9,8 @@
 + 12 каскадов изменения фазы
 + Питание
 
+![MainPCBTop](https://github.com/EugeneCarlo/GangBang-Phase-Guitar-Pedal/blob/main/Image/Screenshot_927.png?raw=true)
+
 #### На второй плате расположено управление:
 + Генератор низкой частоты (LFO)
 + Генератор огибающей (Envelope)

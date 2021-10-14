@@ -15,7 +15,7 @@
 + Генератор низкой частоты (LFO)
 + Генератор огибающей (Envelope)
 
-![ControlPCBTop](PCB/Control%20Board.png)
+![ControlPCBTop](https://github.com/EugeneCarlo/GangBang-Phase-Guitar-Pedal/blob/main/Image/Control%20Board%20Top.png)
 
 #### Немного про функционал:
 + Каждый каскад меняет фазу сигнала на 45 градусов (540 градусов максимум)

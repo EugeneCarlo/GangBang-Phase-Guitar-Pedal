@@ -54,3 +54,16 @@
 
 При желании можно добавить выходы, например с LFO, Envelope, Gate, но не вижу способов применения, так что отдельные выходы не предусмотрены, но легко реализуемы.
 
+#### Ниже по ссылкам информация о том как это все работает и последовательность сборки:
+
+### [Как заказать платы](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal/blob/main/How%20to%20get%20PCB/README.md)
+
+### [Как собрать](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal-/blob/main/How%20to%20assemble/README.md)
+
+### [Как работает](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal-/blob/main/How%20it%20works/README.md)
+
+### [Видео работы](https://www.youtube.com/watch?v=Q6SMLJXxsho)
+
+### [Список комплектующих](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal/tree/main/BOM)
+
+### [GERBER для заказа плат](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal/blob/main/PCB/Gerber_82x86mm.zip)

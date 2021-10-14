@@ -60,10 +60,8 @@
 
 ### [Как собрать](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal-/blob/main/How%20to%20assemble/README.md)
 
-### [Как работает](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal-/blob/main/How%20it%20works/README.md)
+### [Как работает](https://github.com/EugeneCarlo/GangBang-Phase-Guitar-Pedal/blob/main/How%20it%20works/README.md)
 
-### [Видео работы](https://www.youtube.com/watch?v=Q6SMLJXxsho)
+### [Список комплектующих](https://github.com/EugeneCarlo/GangBang-Phase-Guitar-Pedal/blob/main/BOM/README.md)
 
-### [Список комплектующих](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal/tree/main/BOM)
-
-### [GERBER для заказа плат](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal/blob/main/PCB/Gerber_82x86mm.zip)
+### [GERBER для заказа плат](https://github.com/EugeneCarlo/GangBang-Phase-Guitar-Pedal/tree/main/PCB)

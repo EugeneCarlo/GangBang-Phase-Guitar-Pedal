@@ -58,7 +58,7 @@
 
 ### [Как заказать платы](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal/blob/main/How%20to%20get%20PCB/README.md)
 
-### [Как собрать](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal-/blob/main/How%20to%20assemble/README.md)
+### [Как собрать](https://github.com/EugeneCarlo/GangBang-Phase-Guitar-Pedal/blob/main/How%20to%20assemble/README.md)
 
 ### [Как работает](https://github.com/EugeneCarlo/GangBang-Phase-Guitar-Pedal/blob/main/How%20it%20works/README.md)
 
